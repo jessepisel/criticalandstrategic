@@ -1,3 +1,4 @@
+![map of wyoming](https://github.com/jessepisel/criticalandstrategic/blob/master/sedimentsamples.JPG?raw=true "Sediment Sample Map of Wyoming")
 # Wyoming Critical and Strategic Minerals
 
 This repository is home to the data processing scripts for processing [NURE](https://mrdata.usgs.gov/nure/sediment/) and [NGDBR](https://mrdata.usgs.gov/ngdb/rock/) geochemical datasets as described in [WSGS OFR 2019-2](http://www.wsgs.wyo.gov/products/wsgs-2019-ofr-02.pdf)
